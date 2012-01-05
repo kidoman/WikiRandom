@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WikiRandom.Core.Tests")]
+[assembly: AssemblyTitle("WikiRandom.Resources")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("WikiRandom.Core.Tests")]
+[assembly: AssemblyProduct("WikiRandom.Resources")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d86dbd1a-6fdf-41b4-9ed9-af1aa9c69b75")]
+[assembly: Guid("45faed7f-e33c-4ee3-adc1-c35d6f9560d9")]
 
 // Version information for an assembly consists of the following four values:
 //
